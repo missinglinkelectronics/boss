@@ -389,3 +389,5 @@ change is wide open.
 .. [sift]    Scale-invariant fetature transform, https://de.wikipedia.org/wiki/Scale-invariant_feature_transform
 .. [labgrid]   labgrid Documentation, https://labgrid.readthedocs.io/en/latest/
 .. [ncurses] NCURSES, https://invisible-island.net/ncurses/announce.html#h2-overview
+.. [JSON] Introducing JSON, https://www.json.org/json-en.html
+.. [XML]  Extensible Markup Language, https://www.w3.org/XML/
