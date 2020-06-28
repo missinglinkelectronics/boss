@@ -169,8 +169,6 @@ dynamic data, which is the board state change events itself is served by *BSP*
 to the board state consumers *BSV and *BSL*. This information is distributed
 via the *BSDP*.
 
-.. This image is missing!
-
 .. _img_boss_data_flow:
 
 .. image:: doc/fig/boss_data_flow.png
@@ -367,7 +365,7 @@ providers and consumers. Such boards could e.g. be:
 #. Raspberry PI: widely used, cheap and simple board
    (any version, at best one of the most sold)
 #. Xilinx ZCU102: A widely used example of a more complex board
-   (any version, at best one of the most sold)
+   (any version, at best one of the most sold, which probably is Rev. 1.1)
 
 
 .. _license_ideas:
